@@ -1,0 +1,13 @@
+TABELA DE ALUNOS
+ID | NOME | TURMA | IDADE | CURSO
+--------------------------------------------------
+1 | Joao Vitor | 2A | 16 | Informatica
+2 | Maria Eduarda | 2B | 17 | Enfermagem
+3 | Carlos Maia | 1A | 15 | Administracao
+4 | Carla Vieira | 1A | 16 | Informatica
+5 | Pedro Cunha | 3A | 18 | Eletrotecnica
+6 | Ana Banana | 3B | 17 | Enfermagem
+7 | Marcos Augusto | 1A | 15 | Administracao
+8 | Paula Vicente| 1B | 16 | Informatica
+9 | Igor Gabriel | 1A | 17 | Eletrotecnica
+10 | Valentina  Maria | 3B | 18 | Enfermagem
